@@ -1,9 +1,9 @@
-
 ![Picture of clouds on a cloudy day](https://github.com/F-Menges/F-Menges/blob/341ff9f88f2c0225c39af1e31b03e8ab46e6d636/clouds.jpg)
 ## Hi there, I'm Felix 👋
 - :computer: Programming Languages: Python & SQL
 - :crocodile: IRL Languages: English & Malay
 - :medal_sports: Certifications: AZ:900 Microsoft Azure Fundamentals & Google Analytics Certification (Skillshop)
+<!--![gradient line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)-->
 <!--
 **F-Menges/F-Menges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
