@@ -1,5 +1,5 @@
 
-![Picture of clouds on a cloudy day](https://github.com/F-Menges/F-Menges/blob/002ea1e9e1b06e7e5bb13d747f53b789c8d682a3/clouds.jpg)
+![Picture of clouds on a cloudy day](https://github.com/F-Menges/F-Menges/blob/447ab27f0215786595f439afb687fd2a3997e16b/clouds.jpg)
 ## Hi there 👋
 
 <!--
